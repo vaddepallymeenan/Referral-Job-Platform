@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pgvector
+pydantic
+python-dotenv
+pypdf
+requests
+beautifulsoup4
+pandas
+cryptography
+gspread
+google-auth
+tabulate
+selenium
+undetected-chromedriver
